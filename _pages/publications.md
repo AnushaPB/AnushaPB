@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. Anne E. Chambers\*, **Anusha P. Bishop**\*, Ian J. Wang. (2023). Individual-based landscape genomics for conservation: an analysis pipeline. *Molecular Ecology Resources*.  
+1. Anne E. Chambers\*, **Anusha P. Bishop**\*, Ian J. Wang. (2023). Individual-based landscape genomics for conservation: an analysis pipeline. *Molecular Ecology Resources*. [https://doi.org/10.1111/1755-0998.13884](https://doi.org/10.1111/1755-0998.13884)
   *Authors contributed equally  
   R package available on GitHub: [TheWangLab/algatr](https://github.com/TheWangLab/algatr)
 
