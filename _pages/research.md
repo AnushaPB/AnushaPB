@@ -22,7 +22,7 @@ I am working to develop landscape genomic analysis pipelines for whole-genome da
 
 Related publications:
 
-Anne E. Chambers*, Anusha P. Bishop*, Ian J. Wang. (2023). Individual-based landscape genomics for conservation: an analysis pipeline. *Molecular Ecology Resources*. https://doi.org/10.1111/1755-0998.13884.
+Anne E. Chambers\*, Anusha P. Bishop\*, Ian J. Wang. (2023). Individual-based landscape genomics for conservation: an analysis pipeline. *Molecular Ecology Resources*. https://doi.org/10.1111/1755-0998.13884.
 
 <img src="/images/liz.png" align="right" width="20%"/>
 
