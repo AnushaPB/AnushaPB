@@ -24,7 +24,7 @@ Algatr (A Landscape Genomic Analysis Toolkit in R) is a step-by-step, start-to-f
 
 Evodoodle is a Python game that allows players to draw their own landscapes and simulate evolution across them in order to gain intuition for how evolution plays out across space. Evodoodle can be downloaded from [GitHub](https://github.com/AnushaPB/evodoodle).
 
-![evodoodle](https://github.com/AnushaPB/evodoodle/blob/main/example.png)
+![evodoodle](/images/evodoodle.png)
 
 ## codespacer
 
