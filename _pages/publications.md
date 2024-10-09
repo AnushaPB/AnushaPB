@@ -12,7 +12,7 @@ author_profile: true
 3. Maud Quinzin\*, **Anusha P. Bishop**\*, Joshua Miller, Nikolaos Poulakakis, Washington Tapia, Francisco Torres-Rojo, Christian Sevilla, Adalgisa Caccone. (2023). Galapagos giant tortoise trafficking case demonstrates the utility and applications of long-term comprehensive genetic monitoring. *Animal Conservation*. [http://doi.org/10.1111/acv.12870](http://doi.org/10.1111/acv.12870)  
   *Authors contributed equally
 
-4. **Anusha P. Bishop**, E. Anne Chambers, Ian J. Wang. (2023). Generating continuous maps of genetic diversity using moving windows. *Methods in Ecology and Evolution*, 00, 1–7. [https://doi.org/10.1111/2041-210X.14090](https://doi.org/10.1111/2041-210X.14090)  
+4. **Anusha P. Bishop**, E. Anne Chambers, Ian J. Wang. (2023). Generating continuous maps of genetic diversity using moving windows. *Methods in Ecology and Evolution*, 14, 1175–1181. [https://doi.org/10.1111/2041-210X.14090](https://doi.org/10.1111/2041-210X.14090)  
   R package available on GitHub: [AnushaPB/wingen](https://github.com/AnushaPB/wingen) | Blog post: [Methods Blog](https://methodsblog.com/)
 
 5. Drew E. Terasaki Hart, **Anusha P. Bishop**, Ian J. Wang. (2021). Geonomics: forward-time, spatially explicit, and arbitrarily complex landscape genomic simulations. *Molecular Biology and Evolution*, 38(10), 4634–4646. [https://doi.org/10.1093/molbev/msab175](https://doi.org/10.1093/molbev/msab175).
